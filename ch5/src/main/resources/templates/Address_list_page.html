@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../static/Address_list_page/Address_list_page.css">
+    <script src="../static/Address_list_page/Address_list_page.js"></script>
+    <title>通讯录列表页面</title>
+</head>
+<body>
+<h1>通讯录列表</h1>
+<div class="table">
+    <table frame="border" rules="all">
+        <tr>
+            <th>姓名</th>
+            <th>电话</th>
+            <th>邮箱</th>
+            <th>住址</th>
+            <th>QQ</th>
+        </tr>
+        <tr th:each="m:${session.table.getTableinfo()}">
+            <td th:text="${m.getContactname()}"></td>
+            <td th:text="${m.getTel()}"></td>
+            <td th:text="${m.getEmail()}"></td>
+            <td th:text="${m.getAddr()}"></td>
+            <td th:text="${m.getQq()}"></td>
+        </tr>
+    </table>
+</div>
+<div class="button">
+    <button class="b1" onclick="add()">添加</button>
+    <button class="delbutton" onclick="del(this)">删除</button>
+    <button class="corbutton" onclick="alter(this)">编辑</button>
+</div>
+</body>
+</html>

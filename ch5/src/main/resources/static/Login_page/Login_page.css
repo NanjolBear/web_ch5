@@ -1,0 +1,23 @@
+body {
+    margin: 25px;
+    border: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+button {
+    border: 10px;
+    width: 150px;
+    height: 40px;
+    color: blue;
+}
+
+.input {
+    border: 10px;
+    padding: 10px;
+}
+
+.botton {
+    border: 10px;
+    padding: 10px;
+}

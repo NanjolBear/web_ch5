@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b86790c5-a10e-4783-abb0-ea6c1ca2f326" name="Default Changelist" comment="ch5">
+      <change afterPath="$PROJECT_DIR$/../JAVA_WEB程序设计教程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch2/ch2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch4_1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch4_1/src/main/resources/static/New_contact_page/New_contact_page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch5_1.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch5_2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/artifacts/zuoye3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/src/com/filter/the_Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/src/com/servlet/addServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/src/com/servlet/doneServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/src/com/servlet/loginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/src/com/servlet/logoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/classes/com/servlet/addServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/classes/com/servlet/doneServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/classes/com/servlet/loginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/classes/com/servlet/logoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/annotations-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/catalina-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/catalina-ha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/catalina-storeconfig.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/catalina-tribes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/catalina.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/ecj-4.6.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/el-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/jasper-el.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/jasper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/jaspic-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-coyote.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-dbcp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-de.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-es.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-fr.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-ja.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-ko.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-ru.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-i18n-zh-CN.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-jdbc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-jni.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-util-scan.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-util.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/tomcat-websocket.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/lib/websocket-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zuoye3/zuoye3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/1-从dos窗口启动nginx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/2-修改监听端口和默认主页.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/2016211465-周芷钰.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/3-检查配置文件并重启.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/4-配置文件修改成功.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/5-布置反向代理.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业1/6-反向代理成功.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业3/1.CSDN文章，下载后浏览器打开.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业3/2016211465-周芷钰.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业3/WEB开发作业3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/WEB开发作业4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/Data/ContactInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/Data/LoginInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/Data/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/Webwork4Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/models/CheckLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/java/com/guapi/webwork4/models/TableAlters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/add/addJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/add/addStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/add/addbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/add/addmainbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/login/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/login/loginJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/login/loginStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/login/pswicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/login/usericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/main/bodyborder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/main/mainjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/static/main/tableStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/templates/alter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业4/webwork4/src/test/java/com/guapi/webwork4/Webwork4ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/WEB开发作业5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Dao/UserJpaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Data/ContactInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Data/LoginInfor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Data/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Service/CheckLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Service/TableAlters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Service/TypeTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/Webwork4Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/controller/AddController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/controller/AlterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/java/com/guapi/webwork5/listener/SessionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/Nav/Navcss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/Nav/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/Nav/navjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/add/addJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/add/addStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/add/addbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/add/addmainbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/login/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/login/loginJs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/login/loginStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/login/pswicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/login/usericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/main/bodyborder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/main/mainjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/static/main/tableStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/Navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/alter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/main/resources/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../作业5/webwork5-v4-h2/src/test/java/com/guapi/webwork5/Webwork4ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ke3mio9zgvPMo2qHfSM0BNCJ1R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.ch4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86790c5-a10e-4783-abb0-ea6c1ca2f326" name="Default Changelist" comment="" />
+      <created>1606047393249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606047393249</updated>
+      <workItem from="1606047395982" duration="5358000" />
+      <workItem from="1607498918365" duration="1048000" />
+      <workItem from="1607500061549" duration="3787000" />
+      <workItem from="1607503917083" duration="5205000" />
+    </task>
+    <task id="LOCAL-00001" summary="ch4">
+      <created>1606051427920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606051427920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ch5">
+      <created>1607502918942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607502918942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ch5">
+      <created>1607504187098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504187098</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ch5">
+      <created>1607504889120</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607504889120</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ch4" />
+    <MESSAGE value="ch5" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch5" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606047934406">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1606047934406" />
+    <state x="392" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606051952183">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="392" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1606051952183" />
+    <state x="130" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607504766994">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="130" y="268" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1607504766993" />
+    <state x="106" y="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1607500653559">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="106" y="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1607500653559" />
+    <state x="244" y="0" key="CommitChangelistDialog2" timestamp="1607515721005">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="244" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1607515721005" />
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog" timestamp="1607515502928">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="93" y="93" width="1095" height="504" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1607515502928" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1607502730842">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1607502730842" />
+    <state x="223" y="0" key="SettingsEditor" timestamp="1607503660147">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="223" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1607503660147" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1607517541599">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1607517541599" />
+  </component>
+</project>

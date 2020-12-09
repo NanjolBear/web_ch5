@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../static/New_contact_page/New_contact_page.css">
+    <script src="../static/New_contact_page/New_contact_page.js"></script>
+    <title>添加新的联系人页面</title>
+</head>
+
+<script>
+    function isEmail(strEmail) {
+        //定义正则表达式的变量:邮箱正则
+        var reg = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+        console.log(strEmail);
+        //文本框不为空，并且验证邮箱正则成功，给出正确提示
+        if (strEmail != null && strEmail.search(reg) != -1) {
+            document.getElementById("test_user").innerHTML = "<font color='green' size='4px'>√邮箱格式正确！</font>";
+        } else {
+            document.getElementById("test_user").innerHTML = "<font color='red' size='4px'>邮箱格式错误！</font>";
+        }
+    }
+</script>
+
+<body>
+<h1>添加新的联系人</h1>
+<form action="/checkadd" method="post" th:object="${cont}">
+    <div class="input">
+        <label>姓&nbsp名：</label>
+        <input type="text" id="name" autofocus="on">
+    </div>
+    <div class="input">
+        <label>电&nbsp话：</label>
+        <input type="text" id="telephone">
+    </div>
+    <div class="input">
+        <label>邮&nbsp箱：</label>
+        <input type="text" name="e-mail" onblur="isEmail(this.value)">
+    </div>
+    <div class="input">
+        <label>住&nbsp址：</label>
+        <input type="text" name="address">
+    </div>
+    <div class="input">
+        <label>Q&nbsp&nbsp&nbspQ:&nbsp&nbsp</label>
+        <input type="text" name="QQ">
+    </div>
+    <div class="botton">
+        <button>确认</button>
+    </div>
+</form>
+</body>
+</html>

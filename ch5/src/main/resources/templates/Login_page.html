@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="../static/Login_page/Login_page.css">
+    <title>登陆页面</title>
+</head>
+<body>
+<form id='form1' class="login-from" action="checklogin" method="post"
+    th:object="${user}">
+    <div class="input">
+        <label>用户名：</label>
+        <input type="text" id="user_name" th:field="*{username}" autofocus="on" placeholder="例:bupt2016211465">
+    </div>
+    <div class="input">
+        <label>密&nbsp&nbsp&nbsp&nbsp码：</label>
+        <input type="password" id="password" th:field="*{password}" autofocus="off" placeholder="密码不少于六位">
+    </div>
+    <div class="botton">
+        <button type="submit" id="submit">登陆按钮</button>
+    </div>
+</form>
+</body>
+</html>
